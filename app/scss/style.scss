@@ -1,0 +1,38 @@
+@import 'fonts';
+@import 'vars';
+@import 'mixin';
+@import 'reset';
+@import 'libs';
+@import 'global';
+
+//general
+@import 'general/buttons';
+@import 'general/accordion';
+@import 'general/modal';
+
+
+//header
+@import 'header/header';
+
+//about
+@import 'about/about';
+
+//activities
+@import 'activities/activities';
+
+//rooms
+@import 'rooms/rooms';
+
+//choose-room
+@import 'choose-room/choose-room';
+
+//feedback
+@import 'feedback/feedback';
+
+//footer
+@import 'footer/footer';
+
+
+
+@import 'media'; 
+ 
